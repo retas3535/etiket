@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "Etiket Tasarımı V1",
+  "date": "2025-05-03",
+  "features": [
+    "Sayfa şablonu ayarları",
+    "Etiket tasarımı yükleme ve yönetme",
+    "Her etiket için ayrı tarih ekleme özelliği",
+    "PDF oluşturma ve yazdırma"
+  ],
+  "checkpointFile": "label-app-v1.zip",
+  "notes": "Bu versiyon, temel etiket tasarım ve baskı özelliklerini içermektedir. İleride ihtiyaç duyulduğunda bu versiyona dönülebilir."
+}
